@@ -1,11 +1,11 @@
 ### Hi you 👋
 ---
 ## 👩‍💻 About Me
-- :man_student: Computer Science and Engineering @ Politecnico di Milano :it: (Master of Science)  
-- :man_student: Mechatronics Engineering @ Escola Politécnica da Universidade de São Paulo :brazil:
-- :computer: Currently, I'm a member of [@TuringUSP](https://github.com/turing-usp)
-- 👥: Highly interested in using Sata Science to elaborate business decisions and to drive inovation
-- 🗒️: I like writting Medium Posts about Data Science and Machine Learning in portuguese   
+- 💻: Computer Science and Engineering @ Politecnico di Milano :it: (Master of Science)  
+- ⚙️: Mechatronics Engineering @ Escola Politécnica da Universidade de São Paulo :brazil:
+- 🧠: Currently, I'm a member of [@TuringUSP](https://github.com/turing-usp)
+- 👥: Highly interested in using Data Science to elaborate business decisions and to drive inovation 
+- 🗒️: I like writting Medium Posts about Data Science and Machine Learning in portuguese ([here](https://medium.com/@felipeazank))  
 - 📫: You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
 ---
 ## :books: Projects
