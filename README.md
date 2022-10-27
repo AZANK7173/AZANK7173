@@ -5,8 +5,8 @@
 - :man_student: Mechatronics Engineering @ Escola Politécnica da Universidade de São Paulo :brazil:
 - :computer: Currently, I'm a member of [@TuringUSP](https://github.com/turing-usp)
 - 👥: Highly interested in using Sata Science to elaborate business decisions and to drive inovation
-- 🇵🇹: I like writting Medium Posts about Data Science and Machine Learning in portuguese   
-- 📫 You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
+- 🗒️: I like writting Medium Posts about Data Science and Machine Learning in portuguese   
+- 📫: You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
 ---
 ## :books: Projects
 - **[Rotten Scrapper Application:]()** A full analysis of the given dataset, including Data cleaning, manipulation and visualization.
