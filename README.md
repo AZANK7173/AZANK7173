@@ -1,10 +1,10 @@
 ### Hi you 👋
 ---
 ## 👩‍💻 About Me
-- :man_student: Computer Engineering Undergraduate
-- 😄 My pronouns are He/him
+- :man_student: Computer Science and Engineering @ Politecnico di Milano 🇮🇹 (Master of Science)  
+- :man_student: Mechatronics Engineering @ Escola Politécnica da Uniersidade de São Paulo 🇧🇷 
 - :computer: Currently, I'm a member of [@TuringUSP](https://github.com/turing-usp)
-- 📫 You may reach me at [LinkedIn](https://www.linkedin.com/in/kauafirs/)
+- 📫 You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
 ---
 ## :books: Projects
 - **[Olympic Games dataset analysis:](https://github.com/kauafillipe/Projeto-1---Turing-Academy)** A full analysis of the given dataset, including Data cleaning, manipulation and visualization.
@@ -12,8 +12,8 @@
 - **[Data Science Projects:](https://github.com/kauafillipe/Data-Science-Projects)** Some DS projects.
 ---
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauafillipe&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauafillipe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZANK7173&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZANK7173&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kauafillipe/kauafillipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
