@@ -1,8 +1,8 @@
 ### Hi you 👋
 ---
 ## 👩‍💻 About Me
-- :man_student: Computer Science and Engineering @ Politecnico di Milano 🇮🇹 (Master of Science)  
-- :man_student: Mechatronics Engineering @ Escola Politécnica da Uniersidade de São Paulo 🇧🇷 
+- :man_student: Computer Science and Engineering @ Politecnico di Milano :it: (Master of Science)  
+- :man_student: Mechatronics Engineering @ Escola Politécnica da Uniersidade de São Paulo :brazil:
 - :computer: Currently, I'm a member of [@TuringUSP](https://github.com/turing-usp)
 - 📫 You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
 ---
