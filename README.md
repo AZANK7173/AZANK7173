@@ -10,8 +10,8 @@
 ---
 ## :books: Projects
 - **[Rotten Scrapper Application:]()** A full analysis of the given dataset, including Data cleaning, manipulation and visualization.
-- **[ Website for Undergrads:]()** Classification models that predict if a data scientist will or will not change his/her/them carreer.
-- **[Data Science Projects:]()** Some DS projects.
+- **[Website for Undergrads:]()** Classification models that predict if a data scientist will or will not change his/her/them carreer.
+- **[Data Science Courses, Notebooks and classes:]()** Data Science Contents that I developted at Turing USP.
 ---
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZANK7173&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
