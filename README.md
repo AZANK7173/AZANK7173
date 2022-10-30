@@ -10,7 +10,7 @@
 ---
 ## :books: Projects
 - **[Rotten Scrapper Application:]()** A full analysis of the given dataset, including Data cleaning, manipulation and visualization.
-- **[Sage Website for Undergrads:]()** Classification models that predict if a data scientist will or will not change his/her/them carreer.
+- **[ Website for Undergrads:]()** Classification models that predict if a data scientist will or will not change his/her/them carreer.
 - **[Data Science Projects:]()** Some DS projects.
 ---
 ## 📈 GitHub Stats
