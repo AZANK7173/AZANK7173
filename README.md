@@ -9,7 +9,7 @@
 - 📫: You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
 ---
 ## :books: Projects
-- **[Data Science Courses, Notebooks and Classes:](https://github.com/AZANK7173/Data_Science_Contents)** Data Science Contents that I developted at Turing USP.
+- **[Data Science Courses, Notebooks and Classes:](https://github.com/AZANK7173/Data_Science_Contents)** Data Science Contents that I developted at Turing USP. Including, Deep Learning, Data Analysis, Time Series prediction, Model interpretability and much more. 
 - **[Rotten Scrapper Application:](https://github.com/AZANK7173/Rotten_scrapping)** Real-Time Analysis application made by scrapping Rotten Tomatoes Movies (deployed on Streamlit).
 - **[GraduatiON - Website for Undergrads:](https://github.com/GraduationOrganizationTeam/graduation-project)** Website developted with Django in order to create a safe space in which students and professor can interact and evaluate college level courses.
 - **[Sage:](https://github.com/AZANK7173/Sage)** Code development of an IoT system that interacts with a pill dispenser in order to follow and control medicine disposability 
