@@ -3,7 +3,8 @@
 ## 👩‍💻 About Me
 - 💻: Computer Science and Engineering @ Politecnico di Milano :it: (Master of Science)  
 - ⚙️: Mechatronics Engineering @ Escola Politécnica da Universidade de São Paulo :brazil:
-- 🧠: Emeritus member of [@TuringUSP](https://github.com/turing-usp), Data Science group of University of São Paulo. Currently member of Polimi Data Scientists (PMDS)
+- ⚡: Thesis being developted @ Siemens Energy in Finspang, Sweden 🇸🇪
+- 🧠: Emeritus member of [@TuringUSP](https://github.com/turing-usp), Data Science group of University of São Paulo.
 - 👥: Highly interested in using Data Science to elaborate business decisions and to drive inovation 
 - 🗒️: Love writting Medium Posts about Data Science and Machine Learning in portuguese ([here](https://medium.com/@felipeazank))  
 - 📫: You may reach me at [LinkedIn](https://www.linkedin.com/in/felipeazank/?locale=en_US)
